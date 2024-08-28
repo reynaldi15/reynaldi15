@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reynaldi Silalahi</h1>
-<h3 align="center">A passionate Web Developer at Jakarta</h3>
+<h3 align="center">I'M Student at Jakarta</h3>
 
 - 🔭 I’m currently working on **Freelance**
 
