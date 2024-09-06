@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **React,Phyton,Flask,SQL,Machine learning**
+- 🌱 I’m currently learning **React,Phyton,Flask,SQL,DBMS**
 
 - 👯 I’m looking to collaborate on **Data Science**
 
